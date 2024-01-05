@@ -1,0 +1,14 @@
+C:\Users\msajjadc\RM-Sajjad-Files\SajjathCK\Day 8\Linq_Assignment\obj\Debug\net8.0\Linq_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msajjadc\RM-Sajjad-Files\SajjathCK\Day 8\Linq_Assignment\obj\Debug\net8.0\Linq_Assignment.AssemblyInfoInputs.cache
+C:\Users\msajjadc\RM-Sajjad-Files\SajjathCK\Day 8\Linq_Assignment\obj\Debug\net8.0\Linq_Assignment.AssemblyInfo.cs
+C:\Users\msajjadc\RM-Sajjad-Files\SajjathCK\Day 8\Linq_Assignment\obj\Debug\net8.0\Linq_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\msajjadc\RM-Sajjad-Files\SajjathCK\Day 8\Linq_Assignment\bin\Debug\net8.0\Linq_Assignment.exe
+C:\Users\msajjadc\RM-Sajjad-Files\SajjathCK\Day 8\Linq_Assignment\bin\Debug\net8.0\Linq_Assignment.deps.json
+C:\Users\msajjadc\RM-Sajjad-Files\SajjathCK\Day 8\Linq_Assignment\bin\Debug\net8.0\Linq_Assignment.runtimeconfig.json
+C:\Users\msajjadc\RM-Sajjad-Files\SajjathCK\Day 8\Linq_Assignment\bin\Debug\net8.0\Linq_Assignment.dll
+C:\Users\msajjadc\RM-Sajjad-Files\SajjathCK\Day 8\Linq_Assignment\bin\Debug\net8.0\Linq_Assignment.pdb
+C:\Users\msajjadc\RM-Sajjad-Files\SajjathCK\Day 8\Linq_Assignment\obj\Debug\net8.0\Linq_Assignment.dll
+C:\Users\msajjadc\RM-Sajjad-Files\SajjathCK\Day 8\Linq_Assignment\obj\Debug\net8.0\refint\Linq_Assignment.dll
+C:\Users\msajjadc\RM-Sajjad-Files\SajjathCK\Day 8\Linq_Assignment\obj\Debug\net8.0\Linq_Assignment.pdb
+C:\Users\msajjadc\RM-Sajjad-Files\SajjathCK\Day 8\Linq_Assignment\obj\Debug\net8.0\Linq_Assignment.genruntimeconfig.cache
+C:\Users\msajjadc\RM-Sajjad-Files\SajjathCK\Day 8\Linq_Assignment\obj\Debug\net8.0\ref\Linq_Assignment.dll

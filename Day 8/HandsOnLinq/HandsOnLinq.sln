@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandsOnLinq", "HandsOnLinq.csproj", "{7795078C-B777-4959-AA18-905FF4E0C000}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7795078C-B777-4959-AA18-905FF4E0C000}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7795078C-B777-4959-AA18-905FF4E0C000}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7795078C-B777-4959-AA18-905FF4E0C000}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7795078C-B777-4959-AA18-905FF4E0C000}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1180DDCD-6843-46E5-94EF-9E6B7443D93F}
+	EndGlobalSection
+EndGlobal
