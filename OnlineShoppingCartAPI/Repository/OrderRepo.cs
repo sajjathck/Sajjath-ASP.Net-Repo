@@ -5,7 +5,7 @@ namespace OnlineShoppingCartAPI.Repository
     public class OrderRepo : IOrderRepo
     {
         List<Order> orders=new List<Order>();
-        public void AddOrder(Order order)
+        public void PlaceOrder(Order order)
         {
             orders.Add(order);
         }
@@ -19,7 +19,7 @@ namespace OnlineShoppingCartAPI.Repository
             }
         }
 
-        public List<Order> GetAll()
+        public List<Order> ViewOrder()
         {
             return orders;
         }

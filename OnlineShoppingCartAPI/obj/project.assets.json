@@ -428,19 +428,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\msajjadc\\.nuget\\packages\\": {}
+    "C:\\Users\\hp\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\msajjadc\\RM-Sajjad-Files\\API_Assignment\\OnlineShoppingCartAPI\\OnlineShoppingCartAPI.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\Documents\\RMPractise\\Sajjath-ASP.Net-Repo\\OnlineShoppingCartAPI\\OnlineShoppingCartAPI.csproj",
       "projectName": "OnlineShoppingCartAPI",
-      "projectPath": "C:\\Users\\msajjadc\\RM-Sajjad-Files\\API_Assignment\\OnlineShoppingCartAPI\\OnlineShoppingCartAPI.csproj",
-      "packagesPath": "C:\\Users\\msajjadc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\msajjadc\\RM-Sajjad-Files\\API_Assignment\\OnlineShoppingCartAPI\\obj\\",
+      "projectPath": "C:\\Users\\hp\\Documents\\RMPractise\\Sajjath-ASP.Net-Repo\\OnlineShoppingCartAPI\\OnlineShoppingCartAPI.csproj",
+      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hp\\Documents\\RMPractise\\Sajjath-ASP.Net-Repo\\OnlineShoppingCartAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\msajjadc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
