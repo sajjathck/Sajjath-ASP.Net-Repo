@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\msajjadc\\RM-Sajjad-Files\\SajjathCK\\Day 8\\Linq_Assignment\\Linq_Assignment.csproj": {}
+    "C:\\Users\\hp\\Documents\\RMPractise\\Sajjath-ASP.Net-Repo\\Day 8\\Linq_Assignment\\Linq_Assignment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\msajjadc\\RM-Sajjad-Files\\SajjathCK\\Day 8\\Linq_Assignment\\Linq_Assignment.csproj": {
+    "C:\\Users\\hp\\Documents\\RMPractise\\Sajjath-ASP.Net-Repo\\Day 8\\Linq_Assignment\\Linq_Assignment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\msajjadc\\RM-Sajjad-Files\\SajjathCK\\Day 8\\Linq_Assignment\\Linq_Assignment.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Documents\\RMPractise\\Sajjath-ASP.Net-Repo\\Day 8\\Linq_Assignment\\Linq_Assignment.csproj",
         "projectName": "Linq_Assignment",
-        "projectPath": "C:\\Users\\msajjadc\\RM-Sajjad-Files\\SajjathCK\\Day 8\\Linq_Assignment\\Linq_Assignment.csproj",
-        "packagesPath": "C:\\Users\\msajjadc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\msajjadc\\RM-Sajjad-Files\\SajjathCK\\Day 8\\Linq_Assignment\\obj\\",
+        "projectPath": "C:\\Users\\hp\\Documents\\RMPractise\\Sajjath-ASP.Net-Repo\\Day 8\\Linq_Assignment\\Linq_Assignment.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\Documents\\RMPractise\\Sajjath-ASP.Net-Repo\\Day 8\\Linq_Assignment\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\msajjadc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

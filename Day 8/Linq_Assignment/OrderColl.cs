@@ -21,7 +21,7 @@ namespace Linq_Assignment
                 Console.WriteLine("All the quantities in the Order collection is >0 ");
             }
             var l = from i in orders
-                    orderby i.Quantity
+                    orderby i.Quantity 
                     select i;
             var la=orders.FirstOrDefault();
 
@@ -29,7 +29,6 @@ namespace Linq_Assignment
 
             //Find if there are any orders placed before Jan of this year.
             DateTime jan2023= new DateTime(2023,01,01);
-
             bool j = orders.All(s => s.orderDate < jan2023);
             if (j)
             {
