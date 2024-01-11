@@ -5,9 +5,17 @@ namespace OnlineShoppingCartAPI.Repository
 {
     public class ProductRepo : IProductRepo
     {
-        List<Product> products=new List<Product>();
+        List<Product> products=new List<Product>()
+        {
+  //productId": 0,
+  //"productName": "string",
+  //"category": "string",
+  //"price": 0,
+  //"stock": 0
+        };
         public void AddProduct(Product product)
         {
+            product.ProductId =products.Any() ?products.Max(x=>x.ProductId)+1 :100;
             products.Add(product);           
         }
 
@@ -35,11 +43,9 @@ namespace OnlineShoppingCartAPI.Repository
             return prod;
         }
 
-        public Product GetProductByName(string name)
+        public List<Product> GetProductByNameOrCategory(string keyword)
         {
-            var prod = (from p in products
-                        where p.ProductName == name
-                        select p).SingleOrDefault();
+            var prod = products.Where(p => p.ProductName.Contains(keyword) || p.Category.Contains(keyword)).ToList();
             return prod;
         }
 
